@@ -3,3 +3,11 @@ node_modules/
 haters/
 .cache/
 dist/
+
+.eslintrc
+
+../pi
+blink.js
+.vscode/sftp.json
+.gitignore
+exercises/55 - Face Detection Censorship/.parcel-cache
